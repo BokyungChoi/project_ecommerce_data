@@ -1,6 +1,6 @@
 ##### Meeting Log & Timeline
 ---
-
+<hr/>
 ### 1st : 프로젝트 아웃라인 소개, 플젝장 정하기
 #### Overview
 - 일시: 9/19
